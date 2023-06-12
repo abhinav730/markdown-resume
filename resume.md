@@ -1,77 +1,56 @@
----
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
-keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
-author:
-- I am the author
-subject: 'Subject'
----
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+# Abhinav
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+- **Email:** findabhi8@gmail.com
+- **Phone Number:** 7301591870
+- **LinkedIn:** [Abhinav](https://www.linkedin.com/in/abhinav-743047196/)
 
-## Skills
-
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
-
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
-
-## Experience
-
-### CEO and Founder, Pied Piper
-
-start-date-end-date, City, State and remote
-
-- Things you did/do here
-- More things that you do here.
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-### Senior Software Architect, Hooli
-
-2010-2016, San Francisco, CA
-
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-## Awards & Recognition
-
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+## Summary/Objective
+A highly skilled software developer with 1 year of experience specializing in Node.js development. Proficient in JavaScript, Python, React, MongoDB, PostgreSQL, and Elasticsearch. Seeking opportunities to leverage my expertise and contribute to a dynamic team as a Software Development Engineer (SDE).
 
 ## Education
+- Bachelor of Technology in Mechanical Engineering, 2022
+  Guru Gobind Singh Indraprastha University, Delhi
 
-### Masters in BS, Example University
+## Skills
+- Programming Languages: Node.js, JavaScript, Python
+- Frameworks/Libraries: React, Ant Design, Express.js
+- Databases: MongoDB, PostgreSQL, Elasticsearch
+- Message Queue: RabbitMQ
+- Version Control: Git
+- Problem Solving and Analytical Skills
+- Strong Communication and Collaboration Abilities
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+## Certifications
+- Problem Solving (Basic) Certificate: [Certificate Link](https://www.hackerrank.com/certificates/86b437c0b3a9)
+- React JS: Completed a course on React JS, covering the basics of functional components, class-based components, and hooks.
+
+## Additional Information
+- Personal Interests: Poetry, Writing, Reading, Artworks
+  - I have a deep passion for poetry and enjoy writing and reading various forms of literature. It allows me to express my creativity and indulge in the beauty of words.
+  - I also have an interest in artworks and appreciate various forms of visual arts, including painting, drawing, and sculpture. Creating and appreciating artworks helps me explore different creative outlets and fuels my inspiration.
+
+## Professional Experience
+### Software Developer, Mountblue, [Dates]
+- Collaborated with a team of developers to design, develop, and deploy web applications using Node.js and React.
+- Implemented RESTful APIs for seamless integration of front-end and back-end functionalities.
+- Worked with multiple clients to build various reports using MongoDB and PostgreSQL databases, utilizing JavaScript as the primary language in the data service of one of the microservices.
+- Developed a dashboard providing information on active, lost, and engaged customers.
+- Handled P0 bugs, understanding their severity and time constraints, and resolving them promptly.
+- Worked on CRM changes to enhance functionality and user experience.
+
+## Projects
+### Project: Client Reporting System
+- Description: Built a reporting system as part of my employment with Mountblue. Utilized Node.js, MongoDB, and PostgreSQL to generate various reports for multiple clients.
+- Contributions:
+  - Implemented data models to structure and organize the data.
+  - Designed and optimized database queries for efficient data retrieval.
+  - Developed the front-end interface using JavaScript, ensuring a user-friendly experience.
+  - Collaborated with the team to integrate the front-end and back-end components seamlessly.
+
+### Project: Customer Dashboard
+- Description: Developed a customer dashboard as part of my employment with Mountblue. The dashboard provides visualizations and insights on active, lost, and engaged customers.
+- Contributions:
+  - Designed and implemented the front-end interface using React and Ant Design, following best practices for UI/UX.
+  - Integrated the front-end with the back-end APIs to retrieve and display customer data.
+  - Collaborated with the team to ensure smooth functionality and responsiveness of the dashboard.
+  - Implemented data visualization techniques to present data in a visually appealing and informative manner.
